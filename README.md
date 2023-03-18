@@ -6,6 +6,7 @@ No Ads.
 
 Desktop:
 ![image](https://user-images.githubusercontent.com/20312984/226095883-ae9c44f6-037e-4b1a-909f-bcbde85a2e37.png)
+
 Mobile:
 ![image](https://user-images.githubusercontent.com/20312984/226095864-b13d20dd-168d-4eae-804e-f941a5a9c1c4.png)
 
