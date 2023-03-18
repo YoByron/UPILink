@@ -2,6 +2,12 @@
 Simple UPI Payment Link Generator in HTML and JavaScript. Embeddable Super-light payment gateway.
 No Ads.
 
+✅ Deep-linking
+✅ Responsive design
+✅ Shows QR Code when on PC.
+✅ Show direct payment buttons when on mobile.
+
+
 ## Super-light
 
 Desktop:
