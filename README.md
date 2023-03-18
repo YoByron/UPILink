@@ -26,7 +26,8 @@ Desktop:
 ## Support
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >](https://www.buymeacoffee.com/madhuraj)
 
-## Tools used
+## Tools Used
+[EasyQRCodeJS](https://github.com/ushelp/EasyQRCodeJS)
 [<img
     src="https://bulma.io/images/made-with-bulma.png"
     alt="Made with Bulma"
