@@ -7,6 +7,7 @@ No Ads.
 ✅ Shows QR Code when on PC.
 ✅ Show direct payment buttons when on mobile.
 ✅ Embeddable
+✅ Supports quick URL - upilink.to/vpa
 
 
 ## Super-light
