@@ -1,5 +1,5 @@
 # UPILink.top
-Simple UPI Payment Link Generator in HTML and JavaScript. Embeddable Super-light payment gateway.
+Simple UPI Payment Link Generator in HTML and JavaScript. Serverless Embeddable Super-light payment gateway.
 No Ads.
 
 ✅ Deep-linking
