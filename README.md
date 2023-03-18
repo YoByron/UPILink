@@ -1,5 +1,5 @@
 # UPILink.top
-Simple UPI Payment Link Generator in HTML and JavaScript. Embeddable Super-light payment gateway
+Simple UPI Payment Link Generator in HTML and JavaScript. Embeddable Super-light payment gateway.
 No Ads.
 
 ## Super-light
@@ -14,7 +14,10 @@ Mobile:
 ## Embeddable
 ![image](https://user-images.githubusercontent.com/20312984/226095839-2a1230ad-db92-4d9f-9102-a9f7ae1fb194.png)
 
-## Others
+## Support
+[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >](https://www.buymeacoffee.com/madhuraj)
+
+## Tools used
 [<img
     src="https://bulma.io/images/made-with-bulma.png"
     alt="Made with Bulma"
@@ -22,6 +25,5 @@ Mobile:
     height="24">](https://bulma.io)
 
 Powered By [Blogger](https://blogger.com)
-## Support
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >](https://www.buymeacoffee.com/madhuraj)
+
 
