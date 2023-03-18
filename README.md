@@ -14,6 +14,15 @@ Mobile:
 ## Embeddable
 ![image](https://user-images.githubusercontent.com/20312984/226095839-2a1230ad-db92-4d9f-9102-a9f7ae1fb194.png)
 
+
+## Screenshots
+Mobile:
+![upilinkscr](https://user-images.githubusercontent.com/20312984/226097421-5b68881e-7a5e-4045-8779-09195064e111.png)
+
+Desktop:
+![image](https://user-images.githubusercontent.com/20312984/226097416-2df6b975-cbde-4d57-acac-7a1ebe2d8edd.png)
+
+
 ## Support
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >](https://www.buymeacoffee.com/madhuraj)
 
