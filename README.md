@@ -28,6 +28,7 @@ Desktop:
 
 ## Tools Used
 [EasyQRCodeJS](https://github.com/ushelp/EasyQRCodeJS)
+
 [<img
     src="https://bulma.io/images/made-with-bulma.png"
     alt="Made with Bulma"
